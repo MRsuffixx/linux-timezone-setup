@@ -38,19 +38,7 @@ The **Linux Timezone Setup Script** is a comprehensive, interactive tool designe
 
 ### 🚀 Quick Start
 
-#### Method 1: Using curl
-```bash
-# Download and run directly
-curl -fsSL https://raw.githubusercontent.com/MRsuffixx/linux-timezone-setup/main/timezone-setup.sh | sudo bash
-```
-
-#### Method 2: Using wget
-```bash
-# Download and run directly
-wget -qO- https://raw.githubusercontent.com/MRsuffixx/linux-timezone-setup/main/timezone-setup.sh | sudo bash
-```
-
-#### Method 3: Download and Execute
+#### Method 1: Download and Execute
 ```bash
 # Download the script
 curl -fsSL -o timezone-setup.sh https://raw.githubusercontent.com/MRsuffixx/linux-timezone-setup/main/timezone-setup.sh
@@ -212,19 +200,7 @@ If you encounter any issues or have questions, please [open an issue](https://gi
 
 ### 🚀 Hızlı Başlangıç
 
-#### Yöntem 1: curl Kullanarak
-```bash
-# Doğrudan indir ve çalıştır
-curl -fsSL https://raw.githubusercontent.com/MRsuffixx/linux-timezone-setup/main/timezone-setup.sh | sudo bash
-```
-
-#### Yöntem 2: wget Kullanarak
-```bash
-# Doğrudan indir ve çalıştır
-wget -qO- https://raw.githubusercontent.com/MRsuffixx/linux-timezone-setup/main/timezone-setup.sh | sudo bash
-```
-
-#### Yöntem 3: İndir ve Çalıştır
+#### Yöntem 1: İndir ve Çalıştır
 ```bash
 # Scripti indir
 curl -fsSL -o timezone-setup.sh https://raw.githubusercontent.com/MRsuffixx/linux-timezone-setup/main/timezone-setup.sh
